@@ -21,7 +21,7 @@ const server = http.createServer((req, res) => {
             current_day: currentDay,
             utc_time: utcTime,
             track: track,
-            github_file_url: "https://github.com/https://github.com/AjabaGodswill/HNG/blob/main/Task_one/index.js",
+            github_file_url: "https://github.com/AjabaGodswill/HNG/blob/main/Task_one/index.js",
             github_repo_url: "https://github.com/AjabaGodswill/HNG",
             status_code: 200
         };
